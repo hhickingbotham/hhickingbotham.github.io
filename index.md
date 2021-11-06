@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Hilary Hickingbotham
+description: Former Engineer Turned Statistician
 ---
 
 # At a Glance
@@ -29,6 +31,8 @@ _The University of Utah and Huntsman Cancer Institute_, June 2021 - Dec 2021
 * I then performed survival analysis to associate calculated PCs with different survival outcomes in the tumor data and identify High and Low risk groups. 
 * After the risk groups were identified, I executed outcome modeling using PCs as predictors along with a bootstrap model validation specifically to address the problem of model overfitting. Concordance indecies, out of bounds sample error, and optimism calcuations were performed to correct for the known model overfit problem. 
 
+This project was a great combination of statistical tools I learned in school, such as linear models, PCA, and EDA, with additional tools I learned throughout the project, Cox Proportional Hazard models, survival analysis, and bootstrap validations. This project also gave me experience with data cleaning, dealing with data discrepencies, emphasized the importance in clear and consise communication to my panel members. 
+
 ## Staff Manufacturing Engineer
 
  _Stryker_, Oct 2015 - Aug 2020 
@@ -42,6 +46,9 @@ _The University of Utah and Huntsman Cancer Institute_, June 2021 - Dec 2021
 * I led the project to implement an automated dipping system used to dip corewires and catheters into hydrophilic coating solutions, removing the human element in the process.
 * I performed a complete revalidation of the process,per Stryker statistical validation procedures,and analyzed the results using MiniTab to ensure quality standards had been maintained.
 * This project avoided $1.1 Million in scrap per year, the highest value project site wide in 2019.
+
+Working at Stryker was a great professional career move. When I started at Stryker, I had no statistical validation experience, and by the end of my time there, I was considered a Subject Matter Expert when it came to statistical validation and analyses. It was my time working on validations that sparked my interest in statistics, and motivated me to continue my education! 
+Some of the most important skills I learned at Stryker were: time management, communication of priorities, and execution of projects critical to the business needs. 
 
 # Project Examples 
 Follow the link below to see some of the projects I've worked on throughout my master's course work 
