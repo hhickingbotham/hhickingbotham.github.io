@@ -4,9 +4,6 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-[Multilinear Models Example](./Math6020_Final Project_HH.pdf).
-
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -16,10 +13,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 After graduating with a Bachelor's Degree in Mechanical Engineering, I spent over seven years as a manufacturing enginner in both the aerospace and medical device fields before pivoting back to school for a Master's Degree in Statistics. This page will be be filled with my credentials, examples of my work, and other information. 
 
 # Education
-Master's Degree in Statistics 
+**Master's Degree in Statistics** 
 _The University of Utah_, GPA: 4.0 - Graduated Dec 2021
 
-Bachelor's Degree in Mechanical Engineering 
+**Bachelor's Degree in Mechanical Engineering** 
 _The University of Vermont_, - Graduated May 2014 
 
 # Skills 
@@ -40,10 +37,15 @@ Linear and Multilinear Models, Optimization, Stochastic Processes, Probability, 
 * Performed process validations on key production processes including: weaving, soldering and hydrophilic coating to ensure transferred processes met the rigid quality standards.
 * Wrote and validated SLC site specific production work instructions and lot history records for compliance and regulatory requirements.
 * Collaborated with a cross-functional team including: Quality Engineering, Supplier Quality Engineering, Regulatory Affairs, R&D Engineering, Sourcing and Project Management to ensure an on-time completion of the project to meet budgetary and site goals.
+
 ### Hydrophilic Coating Update Project
 * Led the project to implement an automated dipping system used to dip corewires and catheters into hydrophilic coating solutions, removing the human element in the process.
 * Performed a complete revalidation of the process,per Stryker statistical validation procedures,and analyzed the results using MiniTab to ensure quality standards had been maintained.
 * Avoided $1.1 Million in scrap per year, the highest value project site wide in 2019.
+
+# Project Examples 
+Follow the link below to see some of the projects I've worked on throughout my master's course work 
+[Link to Project Page](./another-page.html). 
 
 
 
