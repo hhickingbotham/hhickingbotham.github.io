@@ -9,7 +9,7 @@ With any project, my goal will always be delivering high quality, professional w
 
 ## Multilinear Models Final Project 
 For the final project of my multilinear models class, we were asked to look at two datasets: one about 150 Canadian and Alaskan salmon, and one with phenotype information for 110 patients. The methods applied to these datasets were: logistic regression, deviance analysis through a partial likelihood, classification trees, random forests, Fisher’s Linear Discriminant Analysis, PCA and SPCA and clustering.
-[Multilinear Models Example](./Math6020_Final Project_HH.pdf). 
+[Multilinear Models Project](./Math6020_Final Project_HH.pdf). 
 
 ## Mathematical Statistics Project 1 and 2 
 For my mathematical statistics projects, we were asked to analyze weather data of our choosing and come up with questions we could ask that the data would be able to answer. 
