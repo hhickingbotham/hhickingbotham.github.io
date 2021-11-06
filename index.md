@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+[Multilinear Models Example](./Math6020_Final Project_HH.pdf).
 
 There should be whitespace between paragraphs.
 
