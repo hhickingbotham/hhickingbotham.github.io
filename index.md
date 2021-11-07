@@ -33,6 +33,13 @@ _The University of Utah and Huntsman Cancer Institute_, June 2021 - Dec 2021
 
 This project was a great combination of statistical tools I learned in school, such as linear models, PCA, and EDA, with additional tools I learned throughout the project, Cox Proportional Hazard models, survival analysis, and bootstrap validations. This project also gave me experience with data cleaning, dealing with data discrepencies, emphasized the importance in clear and concise communication to my master's panel members. 
 
+## Mathematic Instructor 
+
+_The University of Utah_, Jan 2021 - Present 
+
+* I have taught Math 1070, Introduction to Statistical Inference, for three semesters. Topics of the class include: the normal distribution, correlation and regression, probability, confidence intervals and hypothesis testing using the normal and t distributions, chi-squared tests, and ANOVA. 
+* I am responsible for giving lectures, holding office hours, grading quizzes and exams, and my class sizes have ranged from forty to sixty students.  
+
 ## Staff Manufacturing Engineer
 
  _Stryker_, Oct 2015 - Aug 2020 
