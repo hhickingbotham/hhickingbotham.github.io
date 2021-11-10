@@ -29,7 +29,7 @@ Linear and Multilinear Models, Optimization, Stochastic Processes, Probability, 
 _The University of Utah and Huntsman Cancer Institute_, June 2021 - Dec 2021  
 * I collaborated with a biostatistician group at Huntsman Cancer Institute, who use publicly available RNA sequencing datasets for tumor tissue, to perform principal component analysis as a way to reduce the dimensionality of the data. My project centered around kidney tumor data, and all analyses were performed in R.   
 * I then performed survival analysis to associate calculated PCs with different survival outcomes in the tumor data and identify High and Low risk groups. 
-* After the risk groups were identified, I executed outcome modeling using PCs as predictors along with a bootstrap model validation specifically to address the problem of model overfitting. Concordance indecies, out of bounds sample error, and optimism calcuations were performed to correct for the known model overfit problem. 
+* After the risk groups were identified, I executed outcome modeling using PCs as predictors along with a bootstrap model validation specifically to address the problem of model overfitting. Concordance indices, out of bounds sample error, and optimism calculations were performed to correct for the known model overfit problem. 
 
 This project was a great combination of statistical tools I learned in school, such as linear models, PCA, and EDA, with additional tools I learned throughout the project, Cox Proportional Hazard models, survival analysis, and bootstrap validations. This project also gave me experience with data cleaning, dealing with data discrepencies, emphasized the importance in clear and concise communication to my master's panel members. 
 
